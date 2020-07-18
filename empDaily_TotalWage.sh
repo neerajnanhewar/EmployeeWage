@@ -68,7 +68,7 @@ empWork_Hrs=0
    esac
 
 }
-
+#
 emp_Work_Hrs
 echo "employee working hrs.." $empWork_Hrs
 echo "salary "  ${arrSal[@]}
