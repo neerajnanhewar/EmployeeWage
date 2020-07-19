@@ -1,4 +1,4 @@
-#!/bin/bash -x
+-#!/bin/bash -x
 
 
 #variable Decleration
@@ -56,5 +56,3 @@ emp_TimeCheck=$(( RANDOM%3 ))
 
 salary=$(( $empWagePerHr * $empWork_Hrs ))
 echo " Employee Salary for a month " $salary
-
-
